@@ -1,0 +1,17 @@
+ body {
+     background-color: beige;
+     position: center;
+     text-align: center;
+ }
+
+  .titulo {
+     color: black;
+     font-size: 40px;
+ }
+  p {
+     color: dimgray;
+ }
+ .result {
+    color: dimgray;
+    position: relative;
+ }
